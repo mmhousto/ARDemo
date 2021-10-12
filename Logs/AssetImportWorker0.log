@@ -269,3 +269,4 @@ Received Import Request.
 Start importing Assets/XR/XRGeneralSettings.asset using Guid(58f40b12bbc864f3c96c6505a9a1e1e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4591566b4eacd27e78df7b5958c4b668') in 0.029488 seconds
   Import took 0.033217 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
